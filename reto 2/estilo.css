@@ -1,0 +1,28 @@
+img
+{
+	padding-left: 600px;
+	padding-top: 150px;
+	
+}
+
+.footer {
+	position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
+}
+
+.inputCentro{
+	position: absolute;
+	left: 550px;
+	text-align: center;
+}
+
+.boton{
+	position: absolute;
+	left: 550px;
+	top: 350px;
+	float: dawn;
+}
